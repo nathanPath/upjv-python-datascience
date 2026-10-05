@@ -1,9 +1,7 @@
-# upjv-python-datascience
-Travaux dirigés Python &amp; Data Science — UPJV Amiens
 """# Python & Data Science — UPJV Amiens
 
-**Étudiant·e :** Prénom Nom
-**Formation :** L3 Économie / M1 Économie
+**Étudiant·e :** Nathan Laury
+**Formation :** M1 Économie
 **Année :** 2026-2027
 
 ## Description
